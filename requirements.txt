@@ -1,5 +1,5 @@
 fastai
-pytorch
+torch
 torchtext==0.8.1
 fastbook
 voila
