@@ -11,5 +11,4 @@ year={2020},
 publisher={O'Reilly Media, Incorporated}
 }
 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rexus28/bear-classifier/HEAD?filepath=https%3A%2F%2Fgithub.com%2FRexus28%2Fbear-classifier%2Fvoila%2Frender%2Fbear_classifier.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rexus28/bear-classifier/HEAD?urlpath=%2Fvoila%2Frender%2Fbear_classifier.ipynb)
