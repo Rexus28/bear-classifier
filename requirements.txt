@@ -1,0 +1,6 @@
+fastai
+pytorch
+torchtext==0.8.1
+fastbook
+voila
+
